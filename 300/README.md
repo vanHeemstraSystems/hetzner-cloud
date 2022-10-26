@@ -11,6 +11,7 @@ Based on "Hetzner Cloud Documentation" at https://docs.hetzner.com/cloud/
 - For best performance, hypervisors are used to distribute usage rights of CPU resources among several virtual servers
 - Ideal for individual applications or development environments
 
+|1|2|
 |--|--|
 |A|B|
 
