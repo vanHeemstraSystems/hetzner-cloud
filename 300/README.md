@@ -17,6 +17,16 @@ Based on "Hetzner Cloud Documentation" at https://docs.hetzner.com/cloud/
 
 \* All prices excl. VAT
 
+### Operating Systems
+
+You can choose from:
+- Ubuntu, <== Prefered
+- Fedora, 
+- Debian, 
+- CentOS,  
+- Rocky Linux  
+as your operating system.
+
 ## 200 - Internet Protocol (IP) Addresses
 
 Cloud servers do not have a public network interface unless at least one Primary IP is assigned to them. 
@@ -34,3 +44,12 @@ Hetzner does not charge for their Primary IPv6s, up to 1 Primary IPv6 per server
 
 ## 400 - Load Balancers
 
+## 500 - backups
+
+## 600 - Snapshots
+
+## 700 - Placement Groups
+
+## 800 - Names
+
+## 900 - Labels
