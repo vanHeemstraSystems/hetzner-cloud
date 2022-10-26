@@ -27,7 +27,7 @@ You can choose from:
 - Rocky Linux  
 as your operating system.
 
-*TIP*: Have a look at [kubespray](https://github.com/kubernetes-sigs/kubespray),an Ansible based K8s installer. See a video titled [Deploying kubernetes using Kubespray](https://www.youtube.com/watch?v=CJ5G4GpqDy0)
+*TIP*: Have a look at [Kubespray](https://github.com/kubernetes-sigs/kubespray),an Ansible based K8s installer. See a video titled [Deploying kubernetes using Kubespray](https://www.youtube.com/watch?v=CJ5G4GpqDy0)
 
 ## 200 - Getting Started
 
