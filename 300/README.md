@@ -21,9 +21,15 @@ Hetzner does not charge for their Primary IPv6s, up to 1 Primary IPv6 per server
 
 ## 300 - Volumes
 
+See also "Rclone" at https://github.com/rclone/rclone
+
+Rclone ("rsync for cloud storage") is a command-line program to sync files and directories to and from different cloud storage providers.
+
+NOTE: We could connect from Hetzner Cloud to and from our home volumes to be synched.
+
 ## 400 - Load Balancers
 
-## 500 - backups
+## 500 - Backups
 
 ## 600 - Snapshots
 
