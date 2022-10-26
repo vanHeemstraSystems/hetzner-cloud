@@ -27,6 +27,8 @@ You can choose from:
 - Rocky Linux  
 as your operating system.
 
+*TIP*: Have a look at [kubespray](https://github.com/kubernetes-sigs/kubespray) (an Ansible based K8s installer).
+
 ## 200 - Getting Started
 
 Based on "Creating a Server" at https://docs.hetzner.com/cloud/servers/getting-started/creating-a-server
