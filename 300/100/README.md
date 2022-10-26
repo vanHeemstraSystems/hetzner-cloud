@@ -17,8 +17,10 @@
 
 ### Operating Systems
 
+See also "Selecting the best Linux distribution for Kubernetes clusters" at https://www.x-cellent.com/posts/selecting-the-best-linux-distribution-for-kubernetes-clusters
+
 You can choose from:
-- Ubuntu, <== Prefered
+- Ubuntu, <== Prefered, as a well-tested base for RancherOS
 - Fedora, 
 - Debian, 
 - CentOS,  
