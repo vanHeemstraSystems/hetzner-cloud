@@ -28,3 +28,6 @@ as your operating system.
 ## 200 - Getting Started
 
 Based on "Creating a Server" at https://docs.hetzner.com/cloud/servers/getting-started/creating-a-server
+
+Based on "Ansible for Kubernetes" at https://leanpub.com/ansible-for-kubernetes/read_full (in my library)
+
